@@ -7,6 +7,8 @@ Bài toán nghiên cứu được thực hiện dưới dự án QG.21.26: *"Re-
 ## Ngôn ngữ sử dụng: Python, Matlab.
 ## Kết quả thu được:
 So sánh dựa theo 3 thuật toán để chứng minh sự hiệu quả của phương pháp dựa trên 3 thuật toán mẫu: Thuật toán chia lưới, thuật toán đường đi ngẫu nhiên và thuật toán đường đi tối ưu.
+### Video kết quả:
+[![Watch the video](https://img.youtube.com/vi/A5u8xT-GqYQ/maxresdefault.jpg)](https://youtu.be/A5u8xT-GqYQ)
 
 ## Statistical simulation results of the multi-UAV coverage strategy
 The obtained to evaluate the performance of the proposed multi-UAV coverage strategy for the V-shaped formation.
